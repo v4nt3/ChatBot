@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+storage/documents/*
+storage/*.sqlite3
+storage/indices/
+!storage/documents/.gitkeep
